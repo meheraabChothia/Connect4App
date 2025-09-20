@@ -1,3 +1,5 @@
+# This is a sample readme (please ignore)
+
 In one of my previous projects I made a Connect 4 AI in C++. However it utilised the input window for all of it's functions,
 Which is pretty unsightly and annoying to work with.
 
